@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Rotate : MonoBehaviour
 {
+
     // Start is called before the first frame update
     void Start()
     {
@@ -13,7 +14,7 @@ public class Rotate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(0, 1, 0);
+        //transform.Rotate(0, 1, 0);
         
     }
 }
